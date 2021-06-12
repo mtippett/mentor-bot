@@ -4,7 +4,7 @@ This bot assists in the running and coordination [Blind Mentors](https://blindme
 
 ## Features
 
-Nothing much yet, see [features][features.md] to see what is planned if you want to help.
+Nothing much yet, see [features](features.md) to see what is planned if you want to help.
 
 ## Requirements
 
